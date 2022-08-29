@@ -1,4 +1,16 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Usando o VScode, contém template para programação em c# assim fica implicito as seguintes linhas: 
+/*using System;
+
+namespace 4OperascoesFatec
+{
+    class Program
+    {
+        static void Main(string[] args)
+        { 
+	}
+     }
+}*/
 double n1,n2,resultado;
 
 Console.Write("Digite o primeiro número: ");
